@@ -1,0 +1,25 @@
+body{
+     margin:  0;
+     padding: 0;
+     box-sizing: border-box;
+     text-align: center;
+     text-decoration: solid;
+     background-image: url('images2.jpg');
+     background-size: cover;
+
+}
+h1{
+     color: cyan;
+}
+button{
+    width: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+     margin-top: 5px;
+     background-color: yellow;
+     cursor: pointer;
+     
+ /* text-transform: capitalize; */
+
+
+}
