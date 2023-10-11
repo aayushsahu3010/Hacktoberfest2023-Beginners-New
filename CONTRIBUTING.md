@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+### Name: [Aayush sahu ](https://www.linkedin.com/in/aayush-sahu-507036228/)
+
+- Place: Raipur, Chhattisgarh.
+- Bio: front-end Developer 
+- Affiliation - Problem solver.
+- GitHub: [Aayush sahu ](https://github.com/aayushsahu3010)
